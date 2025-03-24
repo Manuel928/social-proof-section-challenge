@@ -45,6 +45,8 @@ section {
     .testimonial-contents {
         flex-direction: column !important;
         gap: 0px !important;
+        margin-left: 40px !important;
+        margin-right: 40px !important;
     }
     .testimonial-card {
         width: 300px !important;
