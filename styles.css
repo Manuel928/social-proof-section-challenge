@@ -21,7 +21,6 @@ section {
 @media(max-width: 768px) {
     section {
         padding: 10px 50px;
-        margin: 0px 20px;
     }
     .testimonial {
         flex-direction: column;
