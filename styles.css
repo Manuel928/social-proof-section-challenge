@@ -21,6 +21,7 @@ section {
 @media(max-width: 768px) {
     section {
         padding: 10px 50px;
+        margin: 0px 20px;
     }
     .testimonial {
         flex-direction: column;
@@ -44,7 +45,7 @@ section {
     }
     .testimonial-contents {
         flex-direction: column !important;
-        gap: 5px !important;
+        gap: 0px !important;
     }
     .testimonial-card {
         width: 300px !important;
